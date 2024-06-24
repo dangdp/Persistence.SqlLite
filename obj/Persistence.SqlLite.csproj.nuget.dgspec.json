@@ -5,10 +5,10 @@
   },
   "projects": {
     "D:\\Projects\\Persistence\\Persistence.SqlLite\\Persistence.SqlLite.csproj": {
-      "version": "1.0.0.2",
+      "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\Projects\\Persistence\\Persistence.SqlLite\\Persistence.SqlLite.csproj",
-        "projectName": "DangDP.Persistence.SqlServer",
+        "projectName": "DangDP.Persistence.SqlLite",
         "projectPath": "D:\\Projects\\Persistence\\Persistence.SqlLite\\Persistence.SqlLite.csproj",
         "packagesPath": "C:\\Users\\dangd\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Persistence\\Persistence.SqlLite\\obj\\",
@@ -63,12 +63,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

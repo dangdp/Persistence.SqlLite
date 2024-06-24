@@ -8,4 +8,3 @@ D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence
 D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.csproj.CoreCompileInputs.cache
 D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.dll
 D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.pdb
-D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.sourcelink.json

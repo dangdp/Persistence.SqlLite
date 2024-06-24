@@ -1,5 +1,3 @@
 is_global = true
 build_property.RootNamespace = Persistence.SqlLite
 build_property.ProjectDir = D:\Projects\Persistence\Persistence.SqlLite\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 

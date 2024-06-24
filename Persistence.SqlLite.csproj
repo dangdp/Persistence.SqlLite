@@ -6,8 +6,8 @@
     <PackageProjectUrl>https://github.com/dangdp/Persistence.SqlServer</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageId>DangDP.Persistence.SqlServer</PackageId>
-	<Version>1.0.0.2</Version>
+    <PackageId>DangDP.Persistence.SqlLite</PackageId>
+	<Version>1.0.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
