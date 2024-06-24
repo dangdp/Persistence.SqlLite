@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DangDP.Persistence.SqlServer</id>
+    <version>1.0.0</version>
+    <authors>Persistence.SqlServer</authors>
+    <projectUrl>https://github.com/dangdp/Persistence.SqlServer</projectUrl>
+    <description>Package Description</description>
+    <copyright>Dang Duong</copyright>
+    <repository type="git" commit="8cc263a291a01f147a454609b0f17eb3f0eb90f1" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\Persistence.SqlServer\bin\Debug\netstandard2.0\Persistence.SqlServer.dll" target="lib\netstandard2.0\Persistence.SqlServer.dll" />
+  </files>
+</package>

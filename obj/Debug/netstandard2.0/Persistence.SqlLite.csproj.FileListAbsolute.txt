@@ -1,0 +1,11 @@
+D:\Projects\Persistence\Persistence.SqlLite\bin\Debug\netstandard2.0\Persistence.SqlLite.deps.json
+D:\Projects\Persistence\Persistence.SqlLite\bin\Debug\netstandard2.0\Persistence.SqlLite.dll
+D:\Projects\Persistence\Persistence.SqlLite\bin\Debug\netstandard2.0\Persistence.SqlLite.pdb
+D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.csproj.AssemblyReference.cache
+D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.AssemblyInfoInputs.cache
+D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.AssemblyInfo.cs
+D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.csproj.CoreCompileInputs.cache
+D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.dll
+D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.pdb
+D:\Projects\Persistence\Persistence.SqlLite\obj\Debug\netstandard2.0\Persistence.SqlLite.sourcelink.json

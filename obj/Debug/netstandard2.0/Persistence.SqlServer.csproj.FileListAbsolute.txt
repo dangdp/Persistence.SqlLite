@@ -1,0 +1,21 @@
+D:\Projects\eCommerce Platform\Persistence\obj\Debug\netstandard2.0\Persistence.SqlServer.csproj.AssemblyReference.cache
+D:\Projects\eCommerce Platform\Persistence\obj\Debug\netstandard2.0\Persistence.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eCommerce Platform\Persistence\obj\Debug\netstandard2.0\Persistence.SqlServer.AssemblyInfoInputs.cache
+D:\Projects\eCommerce Platform\Persistence\obj\Debug\netstandard2.0\Persistence.SqlServer.AssemblyInfo.cs
+D:\Projects\eCommerce Platform\Persistence\obj\Debug\netstandard2.0\Persistence.SqlServer.csproj.CoreCompileInputs.cache
+D:\Projects\eCommerce Platform\Persistence\bin\Debug\netstandard2.0\Persistence.SqlServer.deps.json
+D:\Projects\eCommerce Platform\Persistence\bin\Debug\netstandard2.0\Persistence.SqlServer.dll
+D:\Projects\eCommerce Platform\Persistence\bin\Debug\netstandard2.0\Persistence.SqlServer.pdb
+D:\Projects\eCommerce Platform\Persistence\obj\Debug\netstandard2.0\Persistence.SqlServer.dll
+D:\Projects\eCommerce Platform\Persistence\obj\Debug\netstandard2.0\Persistence.SqlServer.pdb
+D:\Projects\Persistence.SqlServer\bin\Debug\netstandard2.0\Persistence.SqlServer.deps.json
+D:\Projects\Persistence.SqlServer\bin\Debug\netstandard2.0\Persistence.SqlServer.dll
+D:\Projects\Persistence.SqlServer\bin\Debug\netstandard2.0\Persistence.SqlServer.pdb
+D:\Projects\Persistence.SqlServer\obj\Debug\netstandard2.0\Persistence.SqlServer.csproj.AssemblyReference.cache
+D:\Projects\Persistence.SqlServer\obj\Debug\netstandard2.0\Persistence.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Persistence.SqlServer\obj\Debug\netstandard2.0\Persistence.SqlServer.AssemblyInfoInputs.cache
+D:\Projects\Persistence.SqlServer\obj\Debug\netstandard2.0\Persistence.SqlServer.AssemblyInfo.cs
+D:\Projects\Persistence.SqlServer\obj\Debug\netstandard2.0\Persistence.SqlServer.csproj.CoreCompileInputs.cache
+D:\Projects\Persistence.SqlServer\obj\Debug\netstandard2.0\Persistence.SqlServer.dll
+D:\Projects\Persistence.SqlServer\obj\Debug\netstandard2.0\Persistence.SqlServer.pdb
+D:\Projects\Persistence.SqlServer\obj\Debug\netstandard2.0\Persistence.SqlServer.sourcelink.json
